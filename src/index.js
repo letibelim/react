@@ -23,7 +23,7 @@ class App extends React.Component {
 	render(){
 		return (
 			<div className="container">
-				<div className="row">
+				<div className="row"> test
 					<div className="col-sm-6">
 						<textarea
 						value={this.state.text} 
